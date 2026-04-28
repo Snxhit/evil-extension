@@ -96,6 +96,8 @@ function getHtml() {
                 "you vs compiler but the compiler is winning",
                 "your variables deserve better </3",
                 "you really typed this and hit save??",
+                "this doesnt solve problem this creates them",
+                "i dont like this"
             ];
 
             window.addEventListener('mousemove', e => {
