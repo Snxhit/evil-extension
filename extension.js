@@ -87,7 +87,15 @@ function getHtml() {
                 "no one likes you",
                 "i hope bugs eat your code",
                 "im gonna steal your cookies.",
-                "you call that code?"
+                "you call that code?",
+                "this looked better in your head",
+                "you typed that with so much confidence",
+                "did you mean to do that orrr",
+                "well, this is awkward.",
+                "this is held together by hope and a ton of glue",
+                "you vs compiler but the compiler is winning",
+                "your variables deserve better </3",
+                "you really typed this and hit save??",
             ];
 
             window.addEventListener('mousemove', e => {
